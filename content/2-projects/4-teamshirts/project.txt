@@ -1,0 +1,19 @@
+Title: TeamShirts
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+(image: the-essentials-012.svg)
+
+(image: the-essentials-013.svg)
+
+----
+
+Tags: ui,ux,interaction
